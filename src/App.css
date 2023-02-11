@@ -13,6 +13,23 @@
   }
 }
 
+.ant-card {
+  margin-top: 15px !important;
+}
+
+.ant-checkbox-group {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: flex-start !important;
+  align-content: center !important;
+  flex-direction: row !important;
+  align-items: center !important;
+}
+
+.ant-checkbox-wrapper {
+  margin-inline-start: 0px !important;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
