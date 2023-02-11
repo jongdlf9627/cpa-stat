@@ -21,7 +21,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "hompage": "http://jongdlf9627.github.io/cpa-stat",
+  "hompage": "http://jongdlf9627.github.io/cpa-stat/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
